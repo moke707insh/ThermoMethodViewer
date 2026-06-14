@@ -1,2 +1,2 @@
 # ThermoMethodViewer
-软件可以直接在电脑上打开ThermoFisher方法文件。
+软件可以直接在电脑上打开ThermoFisher液质联用方法文件。
